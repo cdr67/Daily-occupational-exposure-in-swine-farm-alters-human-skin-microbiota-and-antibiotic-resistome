@@ -1,0 +1,129 @@
+SampleID	Env	SourceSink	id
+CC5CD1	CC dust	Source	NA
+CC5CD2	CC dust	Source	NA
+CC5CD3	CC dust	Source	NA
+CC5CD4	CC dust	Source	NA
+CRB5F1	CR faeces	Source	NA
+CRB5F2	CR faeces	Source	NA
+CRB5F3	CR faeces	Source	NA
+CRB5F4	CR faeces	Source	NA
+CRB5XFD1	CR dust	Source	NA
+CRB5XFD2	CR dust	Source	NA
+CRB5XFD3	CR dust	Source	NA
+CRB5XFD4	CR dust	Source	NA
+CRB6XFD1	CR dust	Source	NA
+CRB6XFD2	CR dust	Source	NA
+CRB6XFD3	CR dust	Source	NA
+CRB6XFD4	CR dust	Source	NA
+CRB6ZFD1	CR dust	Source	NA
+CRB6ZFD2	CR dust	Source	NA
+CRB6ZFD3	CR dust	Source	NA
+CRB6ZFD4	CR dust	Source	NA
+DC74D1	DC dust	Source	NA
+DC74D2	DC dust	Source	NA
+DC74D3	DC dust	Source	NA
+DC74D4	DC dust	Source	NA
+DC75D1	DC dust	Source	NA
+DC75D2	DC dust	Source	NA
+DC75D3	DC dust	Source	NA
+DC75D4	DC dust	Source	NA
+DC8D1	DC dust	Source	NA
+DC8D2	DC dust	Source	NA
+DC8D3	DC dust	Source	NA
+DC8D4	DC dust	Source	NA
+DCCD1	DC dust	Source	NA
+DCCD2	DC dust	Source	NA
+DCCD3	DC dust	Source	NA
+DCCD4	DC dust	Source	NA
+DCRCD11	DC dust	Source	NA
+DCRCD12	DC dust	Source	NA
+DCRCD13	DC dust	Source	NA
+DCRCD14	DC dust	Source	NA
+DRB7D11	DR dust	Source	NA
+DRB7D12	DR dust	Source	NA
+DRB7D13	DR dust	Source	NA
+DRB7D14	DR dust	Source	NA
+DRB7D21	DR dust	Source	NA
+DRB7D22	DR dust	Source	NA
+DRB7D23	DR dust	Source	NA
+DRB7D24	DR dust	Source	NA
+DRB7D31	DR dust	Source	NA
+DRB7D32	DR dust	Source	NA
+DRB7D33	DR dust	Source	NA
+DRB7D34	DR dust	Source	NA
+DRB7F1	DR faeces	Source	NA
+DRB7F2	DR faeces	Source	NA
+DRB7F3	DR faeces	Source	NA
+DRB7F4	DR faeces	Source	NA
+DRB8D41	DR dust	Source	NA
+DRB8D42	DR dust	Source	NA
+DRB8D43	DR dust	Source	NA
+DRB8D44	DR dust	Source	NA
+DRB8D51	DR dust	Source	NA
+DRB8D52	DR dust	Source	NA
+DRB8D53	DR dust	Source	NA
+DRB8D54	DR dust	Source	NA
+ZAN1	Anose1	Sink	1
+ZAN3	Anose3	Sink	2
+ZBN1	Bnose1	Sink	3
+ZBN2	Bnose2	Sink	4
+ZBN3	Bnose3	Sink	5
+ZCN1	Cnose1	Sink	6
+ZCN2	Cnose2	Sink	7
+ZCN3	Cnose3	Sink	8
+ZDN1	Dnose1	Sink	9
+ZDN2	Dnose2	Sink	10
+ZDN3	Dnose3	Sink	11
+ZEN1	Enose1	Sink	12
+ZEN2	Enose2	Sink	13
+ZEN3	Enose3	Sink	14
+ZFN1	Fnose1	Sink	15
+ZFN2	Fnose2	Sink	16
+ZFN3	Fnose3	Sink	17
+ZGN1	Gnose1	Sink	18
+ZGN2	Gnose2	Sink	19
+ZGN3	Gnose3	Sink	20
+ZHN1	Hnose1	Sink	21
+ZHN2	Hnose2	Sink	22
+ZHN3	Hnose3	Sink	23
+ZIN1	Inose1	Sink	24
+ZIN2	Inose2	Sink	25
+ZIN3	Inose3	Sink	26
+ZJN1	Jnose1	Sink	27
+ZJN2	Jnose2	Sink	28
+ZJN3	Jnose3	Sink	29
+ZKN1	Knose1	Sink	30
+ZKN2	Knose2	Sink	31
+ZKN3	Knose3	Sink	32
+ZAS1	Askin1	Sink	33
+ZAS2	Askin2	Sink	34
+ZAS3	Askin3	Sink	35
+ZBS1	Bskin1	Sink	36
+ZBS2	Bskin2	Sink	37
+ZBS3	Bskin3	Sink	38
+ZCS1	Cskin1	Sink	39
+ZCS2	Cskin2	Sink	40
+ZCS3	Cskin3	Sink	41
+ZDS1	Dskin1	Sink	42
+ZDS2	Dskin2	Sink	43
+ZDS3	Dskin3	Sink	44
+ZES1	Eskin1	Sink	45
+ZES2	Eskin2	Sink	46
+ZES3	Eskin3	Sink	47
+ZFS2	Fskin2	Sink	48
+ZFS3	Fskin3	Sink	49
+ZGS1	Gskin1	Sink	50
+ZGS2	Gskin2	Sink	51
+ZGS3	Gskin3	Sink	52
+ZHS1	Hskin1	Sink	53
+ZHS2	Hskin2	Sink	54
+ZHS3	Hskin3	Sink	55
+ZIS1	Iskin1	Sink	56
+ZIS2	Iskin2	Sink	57
+ZIS3	Iskin3	Sink	58
+ZJS1	Jskin1	Sink	59
+ZJS2	Jskin2	Sink	60
+ZJS3	Jskin3	Sink	61
+ZKS1	Kskin1	Sink	62
+ZKS2	Kskin2	Sink	63
+ZKS3	Kskin3	Sink	64
